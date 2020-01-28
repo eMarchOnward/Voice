@@ -16,7 +16,7 @@ android {
   compileSdkVersion(Versions.compileSdk)
 
   defaultConfig {
-    applicationId = "de.ph1b.audiobook"
+    applicationId = "net.iamehead.audiobook"
     minSdkVersion(Versions.minSdk)
     targetSdkVersion(Versions.targetSdk)
 
